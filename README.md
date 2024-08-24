@@ -30,3 +30,5 @@
 - Currently, due to computational limitations, the workflow does not run real-time during standup meetings; instead, an mp4 of the meeting should be fed in as input. Ideally the script should be modified to interpret the part of the meeting that has been heard so far and re-listen and interpret after some more intervals.
 
 - The updates.py file must automatically be run each time the scipt is finished running.
+
+- This project is a prototype of the final product, which used proprietary data and hence could not be published.
